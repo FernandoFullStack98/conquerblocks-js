@@ -62,3 +62,5 @@
     <li><a target="_blank" href="./02_ejercicios/16-eventos.md">Ejercicios sobre eventos</a></li>
     <li><a target="_blank" href="./02_ejercicios/17-manipulacion-dom.md">Ejercicios de manipulación del DOM</a></li>
 </ul>
+
+<p>Fin del archivo README</p>
